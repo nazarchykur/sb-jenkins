@@ -12,4 +12,5 @@ class SbJenkinsApplicationTests {
     void contextLoads() {
         assertThat(true).isEqualTo(true);
     }
+    
 }
